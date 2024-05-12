@@ -33,8 +33,7 @@
     "drawing"
   ],
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.51",
-    "discord.js": "^14.7.1",
+    "@napi-rs/canvas": "^0.1.52",
     "gifencoder": "^2.0.1",
     "jimp": "^0.16.0"
   },
